@@ -35,6 +35,7 @@ dataset/
 Each dataset corresponds to a configuration file located in the `configs/` folder. These `.yaml` files define dataset-specific training settings such as model parameters, data paths, and training schedule.
 
 ```
+configs/
 ├── Amazon_Beauty_diff.yaml
 ├── Amazon_Sports_and_Outdoors_diff.yaml
 ├── Amazon_Toys_and_Games_diff.yaml
