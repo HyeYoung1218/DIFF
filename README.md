@@ -15,15 +15,14 @@ conda activate diff
 ```
 
 ## 📁 Dataset
-We provide four preprocessed datasets, which are included in the `dataset/` directory:
+We utilize four preprocessed datasets:
 
 * `Amazon_Beauty`
 * `Amazon_Sports_and_Outdoors`
 * `Amazon_Toys_and_Games`
 * `yelp`
 
-Each dataset is ready to use and requires no additional preprocessing.
-The directory structure is as follows:
+Please download the datasets manually from [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets) or the provided [Google Drive](https://drive.google.com/drive/folders/1ahiLmzU7cGRPXf5qGMqtAChte2eYp9gI) links, and place them under the `dataset/` directory:
 
 ```
 dataset/
